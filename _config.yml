@@ -3,7 +3,7 @@
 
 title: Aperture Template
 url: "http://footballcloud.net/"
-baseurl:
+baseurl: /enriquealvarez
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
