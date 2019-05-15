@@ -8,9 +8,9 @@ google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Plantilla para profesionales del fútbol.
+description: Apasionado, Estimulante, Sensato, Experientado, Metódico y Ejemplar.
 author:
-  name:
+  name: EnriqueAlvarez
   email: 
   twitter: perisperis
 social:
