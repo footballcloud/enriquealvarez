@@ -1,0 +1,6 @@
+- name: Inicio
+  link: /
+- name: Sobre mi
+  link: /about/
+- name: Galería
+  link: /galeria/
