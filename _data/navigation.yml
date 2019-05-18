@@ -1,4 +1,6 @@
 - name: Sobre mi
   link: /about/
-- name: Galería
+- name: Curriculum
+  link: /meritos/
+- name: Fotos
   link: /galeria/
