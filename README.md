@@ -23,6 +23,13 @@ Apasionado, Estimulante, Sensato, Experientado, Metódico y Ejemplar.
 
 # CF Fuenlabrada
 
-- [Preparador Físico - 17/18] (Juvenil Nacional)
+- [Preparador Físico - 16/17] (Juvenil Nacional)
 
+# CD URDA
+
+- [Preparador Físico - 14/16] (Preferente)
+
+# Club Atlético Consuegra
+
+- [Preparador Físico - 13/14] (Primera CLM)
 ```
